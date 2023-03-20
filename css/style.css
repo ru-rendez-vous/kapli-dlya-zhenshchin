@@ -340,7 +340,6 @@
     }
     .sale {
         margin: 152px 0 0 35px;
-        width: none;
     }
     .topul {
         margin: 158px 0 0 22px;
@@ -436,6 +435,7 @@
     }
     .sale {
         margin: 158px 0 0 48px;
+        width: none;
     }
     .topul {
         margin: 158px 0 40px 21px;
