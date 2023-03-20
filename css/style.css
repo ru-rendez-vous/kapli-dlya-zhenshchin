@@ -5,25 +5,25 @@
     padding: 42px 0 0
 }
 .block1 h1 {
-    font-size: 22px;
+    font-size: 23px;
     color:#fff;
-    letter-spacing: 7.2px;
+    letter-spacing: 2.2px;
     margin: 0 0 0 349px;
-    line-height: 1em;
+    line-height: 1.2em;
 }
 .block1 h2 {
     font-size: 30px;
     font-weight: 400;
     color:#fff;
     margin: 0 0 0 349px;
-    line-height: 1em;
+    line-height: 1.2em;
 }
 .sale {
     color:#640c2d;
     font-size: 16px;
     text-transform: uppercase;
     width: 90px;
-    margin: 152px 0 0 355px;
+    margin: 137px 0 0 355px;
     -moz-transform: rotate(15deg);
     -webkit-transform: rotate(15deg);
     -o-transform: rotate(15deg);
@@ -417,7 +417,7 @@
     }
     .block1 h1 {
         margin: 0 0 5px 0;
-        font-size: 43px;
+        font-size: 23px;
         letter-spacing: 0;
         text-align: center;
     }
@@ -425,6 +425,7 @@
         margin: 0;
         text-align: center;
         font-size: 18px;
+		
     }
     .formbox {
         position: static;
@@ -434,8 +435,7 @@
         background: none;
     }
     .sale {
-        margin: 158px 0 0 48px;
-        width: none;
+        margin: 117px 0 0 48px;
     }
     .topul {
         margin: 158px 0 40px 21px;
