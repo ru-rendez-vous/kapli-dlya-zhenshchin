@@ -1,0 +1,501 @@
+/*block1*//* after_qbici */
+.block1 {
+    background: url(../img/b1.jpg) no-repeat center top;
+    height: 597px;
+    padding: 42px 0 0
+}
+.block1 h1 {
+    font-size: 48px;
+    color:#fff;
+    letter-spacing: 7.2px;
+    margin: 0 0 0 349px;
+    line-height: 1em;
+}
+.block1 h2 {
+    font-size: 30px;
+    font-weight: 400;
+    color:#fff;
+    margin: 0 0 0 349px;
+    line-height: 1em;
+}
+.sale {
+    color:#640c2d;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 90px;
+    margin: 152px 0 0 355px;
+    -moz-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    -o-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    transform: rotate(15deg);
+    line-height: 1.6em;
+}
+.sale p {
+    font-size: 36px;
+    font-weight: 700;
+}
+.topul {
+    margin: 158px 0 0 322px;
+}
+.topul li {
+    font-size: 14px;
+    color:#fff;
+    font-weight: 700;
+    margin-bottom: 7px;
+    position: relative;
+    padding: 0 0 0 30px;
+}
+.topul li:before {
+    content:'';
+    display: block;
+    background: url(../img/check.png) no-repeat 0 0;
+    width: 22px;
+    height: 21px;
+    position: absolute;
+    left: 0;
+    top:0;
+}
+.formbox {
+    background: #282425;
+    width: 320px;
+    position: absolute;
+    right: 10px;
+    top:137px;
+    padding: 20px 0;
+}
+.stock {
+    color:#fff;
+    text-align: center;
+    padding: 20px 0 0;
+    font-size: 14px;
+}
+.stock span {
+    display: inline-block;
+    margin-left: 5px;
+    background: #b32162;
+    padding: 1px 5px;
+    font-weight: 700;
+}
+/*block2*//* endzeit_____ */
+.block2 {
+    background:#261725 url(../img/b2.jpg) no-repeat center top;
+    color:#fff;
+}
+.block2 h2 {
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.block2 h2 span {
+    color:#ffb100;
+}
+.reshenie {
+    text-align: center;
+    font-size: 0;
+}
+.reshenie li {
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: top;
+    width: 220px;
+    margin: 0 10px;
+}
+.reshenie img {
+    display: block;
+    margin: 0 auto;
+}
+.reshenie b {
+    display: block;
+    padding: 20px 0;
+}
+.reshenie p {
+    font-size: 15px;
+}
+/*block3*//* michael-k90 */
+.block3 h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 38px;
+}
+.block3 h2 span {
+    color:#b32162;
+    font-weight: 700;
+    display: block;
+}
+.block3 img {
+    display: block;
+    float: left;
+    margin: 0 30px 0 0;
+}
+.block3 p {
+    padding: 10px 0;
+}
+/*block4*//* bizlife_inc */
+.block4 {
+    background:#2f1e29 url(../img/b3.jpg) no-repeat center top;
+    color:#fff;
+    padding: 70px 0 20px;
+}
+.block4 a {    
+    margin-bottom: -30px;
+}
+.block4 h2 {
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.block4 h2 span {
+    color:#ffb300;
+    display: block;
+}
+.best {
+    font-size: 0;
+}
+.best li {
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    background: url(../img/b1.png) no-repeat 0 0;
+    height: 149px;
+    padding: 0 0 0 225px;
+    margin-bottom: 40px;
+}
+.best li:nth-child(2) {
+    background-image: url(../img/b2.png);
+}
+.best li:nth-child(3) {
+    background-image: url(../img/b3.png);
+}
+.best li:nth-child(4) {
+    background-image: url(../img/b4.png);
+}
+.best div {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+.best div p {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 15px;
+}
+.best div b {
+    display: block;
+    margin-bottom: 10px;
+    line-height: 18px;
+}
+/*block5*//* owmen17 */
+.block5, .block3 {
+    padding-bottom: 0;
+}
+.block5 a, .block3 a {
+    margin-bottom: -30px;
+}
+.block5  .clearfix,
+.block3  .clearfix {
+    margin-bottom: 40px;
+}
+.block5 h2 {
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.block5 h2 span {
+    color:#b32162;
+}
+.char {
+    width: 480px;
+    float: left;
+    font-size: 0;
+    padding-top: 20px;
+}
+.char li {
+    font-size: 16px;
+    display: block;
+    position: relative;
+    padding: 15px 30px 15px 15px;
+}
+.char li:before {
+    content:'';
+    display: block;
+    background: #b32162;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border:3px solid #e2b6ca;
+    background-clip: padding-box;
+    float: left;
+    margin: 6px 10px 0 0;
+}
+.char li:nth-child(odd) {
+    background: #f7f7f7;
+}
+.block5 img {
+    display: block;
+    float: right;
+}
+.char li p {
+    overflow: hidden;
+}
+/*block6*//* after_qbici */
+.block6 {
+    background: #261725 url(../img/b2.jpg) no-repeat center top;
+    color: #fff;
+    padding-top: 70px;
+}
+.block6 h2 {
+    color:#ff9800;
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.block6 h2 span {
+    display: block;
+    font-weight: 400;
+    color:#fff;
+    font-size: 24px;
+    line-height: 1em;
+}
+.rev {
+    padding: 0 30px;
+}
+.person {
+    width: 250px;
+    margin: 0 auto 30px;
+}
+.person img {
+    display: block;
+    border-radius: 50%;
+    border: 4px solid rgba(255,255,255,.3);
+    float: left;
+    margin: 0 20px 0 0;
+}
+.person span {
+    overflow: hidden;
+    padding-top: 28px;
+    display: inline-block;
+}
+.person span b {
+    
+}
+.rev > p {
+    text-align: center;
+    line-height: 30px;
+}
+/*block7*//* endzeit_____ */
+.block7 h2 {
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.ship {
+    font-size: 0;
+    text-align: center;
+}
+.ship li {
+    font-size: 15px;
+    display: inline-block;
+    width: 277px;
+    margin: 0 21px;
+    vertical-align: top;
+}
+.ship img {
+    display: block;
+    margin: 0 auto 20px;
+}
+.ship b {
+    text-transform: uppercase;
+}
+.ship p {
+}
+/*block8*//* michael-k90 */
+  
+/*block9*//* bizlife_inc */
+
+
+/*block10*//* owmen17 */
+
+
+.footer {
+    text-align: center;
+    padding: 40px 0 30px;
+}
+.footer a {
+    font-size: 14px;
+    color:#333;
+}
+/*-------------------------------------- Media Queries ----959---------------------------------*//* after_qbici */    
+@media screen and (max-width: 976px) {
+    .block1 {
+        background: url(../img/b1m.jpg) no-repeat center top;
+    }
+    .block1 h1 {
+        margin: 0 0 0 27px;
+    }
+    .block1 h2 {
+        margin: 0 0 0 27px;
+    }
+    .sale {
+        margin: 152px 0 0 35px;
+    }
+    .topul {
+        margin: 158px 0 0 22px;
+    }
+    .block2 h2,
+    .block3 h2,
+    .block4 h2,
+    .block5 h2,
+    .block6 h2,
+    .block7 h2 {
+        font-size: 30px;
+    }
+    .block2, .block4 {
+        background: rgb(38,23,37);
+        background: -moz-linear-gradient(45deg, rgba(38,23,37,1) 0%, rgba(59,24,56,1) 100%);
+        background: -webkit-linear-gradient(45deg, rgba(38,23,37,1) 0%,rgba(59,24,56,1) 100%);
+        background: linear-gradient(45deg, rgba(38,23,37,1) 0%,rgba(59,24,56,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#261725', endColorstr='#3b1838',GradientType=1 );
+        padding-bottom: 20px;
+    }
+    .reshenie li {
+        margin: 0 30px 20px;
+    }
+    .block3 img {
+        float: none;
+        margin: 0 auto 20px;
+    }
+    .best {
+        text-align: center;
+    }
+    .best li {
+        width: 250px;
+        margin: 0 30px 20px;
+        background-position: center top;
+        padding: 162px 0 0;
+        height: auto;
+    }
+    .best div {
+        display: block;
+    }
+    .char {
+        float: none;
+        padding-top: 0;
+        margin: 0 auto 20px;
+    }
+    .block5 img {
+        float: none;
+        margin: 0 auto;
+    }
+    .slick-prev {
+        left: 140px;
+    }
+    .slick-next {
+        right: 140px;
+    }
+    .ship {
+        padding: 0 80px;
+        text-align: left;
+    }
+    .ship li {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+    .ship img {
+        float: left;
+        margin: 0 30px 0 0;
+    }
+}
+/*-------------------------------------- Media Queries ----639---------------------------------*//* michael-k90 */ 
+@media screen and (max-width: 659px) {
+    .block1 {
+        background:#282425 url(../img/b1s.jpg) no-repeat center top;
+        height: auto;
+        padding: 15px 0 30px;
+    }
+    .block1 h1 {
+        margin: 0 0 5px 0;
+        font-size: 43px;
+        letter-spacing: 0;
+        text-align: center;
+    }
+    .block1 h2 {
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+    }
+    .formbox {
+        position: static;
+        margin: 0 auto;
+        width: 100%;
+        padding: 0;
+        background: none;
+    }
+    .sale {
+        margin: 158px 0 0 48px;
+    }
+    .topul {
+        margin: 158px 0 40px 21px;
+    }
+    .block2 h2, .block3 h2, .block4 h2, .block5 h2, .block6 h2, .block7 h2 {
+        font-size: 20px;
+    }
+    .best li {
+        width: 100%;
+        margin: 0 0 30px;
+        padding: 162px 10px 0;
+    }
+    .char {
+        width: 100%;
+    }
+    .char li {
+        padding: 10px;
+    }
+    .block2 h2 span, .block5 h2 span {
+        display: block;
+    }
+    .person img {
+        float: none;
+        margin: 0 auto;
+    }
+    .person {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .person span {
+        padding-top: 15px;
+    }
+    .rev {
+        padding: 0 10px;
+    }
+    .rev > p {
+        line-height: 22px;
+    }
+    .slick-prev {
+        left: 46px;
+    }
+    .slick-next {
+        right: 46px;
+    }
+    .block7 {
+        padding-bottom: 20px;
+    }
+    .ship {
+        padding: 0 10px;
+        text-align: center;
+    }
+    .ship img {
+        float: none;
+        margin: 0 auto 20px;
+    }
+  
+}
+
+
+
+
+
+
+
